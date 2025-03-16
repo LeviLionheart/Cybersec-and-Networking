@@ -10,8 +10,6 @@ A repository containing guides, frameworks, and tools for individuals working in
 - [Guides](#guides)
 - [Frameworks](#frameworks)
 - [Tools](#tools)
-- [Blue Team Operations](#blue-team-operations)
-- [Intersections with Pentesting](#intersections-with-pentesting)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -35,9 +33,6 @@ Our guides offer step-by-step tutorials and best practices in various areas of c
 
 *These resources are meant to empower professionals by providing clear, concise, and practical instructions.*
 
-- [**Guides Overview**]([https://github.com/LeviLionheart/Cybersec-and-Networking/blob/main/Guides/Guides.md])
-
-
 ---
 
 ## Frameworks
@@ -59,29 +54,6 @@ A curated list of essential tools and utilities for:
 - **Vulnerability Management:** Applications that assist in identifying and remedying system weaknesses.
 
 *Whenever applicable, we highlight tools that are valuable for both defensive and ethical offensive practices.*
-
----
-
-## Blue Team Operations
-
-This repository emphasizes blue team operations with resources that include:
-- **Network Defense:** Techniques to safeguard networks from unauthorized access and threats.
-- **Threat Intelligence:** Strategies for gathering and interpreting data to preempt potential attacks.
-- **Incident Response:** Best practices for rapidly identifying, containing, and mitigating breaches.
-- **Security Auditing:** Methodologies for continuous improvement of security postures.
-
-*These resources are crafted to help build robust, resilient defense strategies.*
-
----
-
-## Intersections with Pentesting
-
-Understanding offensive tactics is crucial to building a strong defense. In this section, you will find:
-- **Overlapping Techniques:** How certain tools and methodologies can be applied in both pentesting and defensive operations.
-- **Vulnerability Analysis:** Insights into common weaknesses exploited by attackers and how to defend against them.
-- **Ethical Hacking:** Resources that detail ethical hacking practices to reinforce your blue team strategies.
-
-*This dual approach ensures a well-rounded perspective on security, equipping you with the knowledge to both anticipate and counteract threats.*
 
 ---
 
