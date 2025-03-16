@@ -40,33 +40,6 @@ Below are some categories of tools that will be developed in this repository:
 
 ---
 
-## Example Tools
-
-### Threat Detection and Analysis: NetSec Analyzer
-
-**NetSec Analyzer** is a planned tool for **network security analysis and threat detection**. It will include:
-
-- **Packet inspection and anomaly detection** using AI-based behavioral analysis.
-- **Automated correlation of network events** to detect lateral movement and exfiltration.
-- **Integration with threat intelligence feeds** to identify known bad actors.
-
-This tool aims to enhance **real-time monitoring** and **early threat detection** for SOC (Security Operations Center) teams.
-
----
-
-### Incident Response and Forensics: BlueShield IR
-
-**BlueShield IR** will be a **lightweight incident response framework** for cybersecurity professionals. Features will include:
-
-- **Automated collection of system artifacts** (logs, processes, network activity, memory dumps).
-- **Detection of persistence mechanisms** used by adversaries.
-- **Integration with MITRE ATT&CK** to map detected techniques to known threat actor behaviors.
-- **Forensic timeline reconstruction** to aid in post-breach investigations.
-
-The goal is to **streamline incident response** while reducing manual forensic efforts.
-
----
-
 ## Additional Resources
 
 - [CISA Cybersecurity Tools](https://www.cisa.gov/cybersecurity-tools)
