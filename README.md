@@ -34,6 +34,8 @@ Our guides offer step-by-step tutorials and best practices in various areas of c
 - **Networking 101** An overview of networking fundamentals. 
 
 *These resources are meant to empower professionals by providing clear, concise, and practical instructions.*
+[Guides]([https://github.com/LeviLionheart/Cybersec-and-Networking/Guides.md])
+
 
 ---
 
