@@ -38,7 +38,6 @@ You can explore more on how to use and extend your Flipper Zero with these links
 - **Official GitHub Repo**: [Flipper Zero GitHub](https://github.com/Flipper-Zero)
 - **Community Projects**: Check out this repository of Flipper Zero resources and tools to enhance your experience.
 
-[Link to your repository here]
 
 ## Important Note
 
