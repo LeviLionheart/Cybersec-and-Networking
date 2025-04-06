@@ -16,6 +16,7 @@ Flipper Zero is a portable multi-tool for pentesters and hardware enthusiasts. I
 To get started with Flipper Zero, you’ll need:
 1. **A Flipper Zero device** – Available for purchase on their [official site](https://flipperzero.one/).
 2. **Flipper Zero Firmware** – Ensure your device is running the latest firmware. You can check and update the firmware on the [Flipper Zero GitHub page](https://github.com/Flipper-Zero).
+   ***Optional:*** Check out custom firmwares like Momentum [official site](https://momentum-fw.dev/)
 
 ### Setup Guide:
 - **Step 1**: Install the necessary software for interacting with your Flipper Zero (e.g., [Flipper Zero Firmware](https://github.com/Flipper-Zero)).
